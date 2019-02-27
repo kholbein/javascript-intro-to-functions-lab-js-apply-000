@@ -35,7 +35,7 @@ function sayHiToGrandma(String) {
 }
  
  function sayHiToGrandma(String) {
-  String === lowercase
+  String.toLowerCase === String
   return "I can\'t hear you!"
 }
  
