@@ -28,13 +28,6 @@ mixedCase.toLowerCase() === mixedCase
 
 mixedCase.toUpperCase() === mixedCase
 
-function sayHiToGrandma(string) {
-  String === "hello"
-  return "I can\'t hear you!"
-  String === uppercase
-  return "YES INDEED"
-}  
-
 function sayHiToGrandma(String) {
   String === "I love you, Grandma."
   return "I love you, too."
