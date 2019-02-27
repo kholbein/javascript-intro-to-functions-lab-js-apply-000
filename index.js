@@ -30,7 +30,7 @@ mixedCase.toUpperCase() === mixedCase
 
 
 function sayHiToGrandma(String) {
-  String === uppercase
+  String.toUpperCase === String
   return "YES INDEED!"
 }
  
