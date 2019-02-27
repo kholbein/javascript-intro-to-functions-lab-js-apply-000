@@ -36,5 +36,6 @@ function sayHiToGrandma(string) {
 }  
 
 function sayHiToGrandma(String) {
-  
+  String === "I love you, Grandma."
+  return "I love you, too."
 }
