@@ -32,4 +32,6 @@ function sayHiToGrandma(string) {
   String === lowercase
   return "I can\'t hear you!"
   String === uppercase
-  return ""
+  return "YES INDEED"
+}  
+
